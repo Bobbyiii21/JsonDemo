@@ -1,7 +1,7 @@
 {   
     "DHTTEMP": 75,
     "DHTHUM": 50,
-    "LIGHTREADING": 100,
+    "LIGHTREADING": " - Very bright! Directly under sun!",
     "SOILMOISTURE": 75,
     "WATERLEVEL": 50
   }
